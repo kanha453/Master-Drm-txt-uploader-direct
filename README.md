@@ -23,7 +23,7 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/github/kanha453/Master-Drm-txt-uploader-direct/blob/main/ADVANCE-TXT-kanha.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/kanha453/Master-Drm-txt-uploader-direct/blob/main/Master-Drm-txt-uploader-direct.ipynb" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
